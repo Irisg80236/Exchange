@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "exchangeCategory"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "这个是一个nslog输出分类"
 
   # This description is used to generate tags and improve search results.
