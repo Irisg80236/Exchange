@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "exchangeCategory3"
+  s.name         = "exchangeCategory"
   s.version      = "0.0.3"
   s.summary      = "添加了一个demoClass"
 
